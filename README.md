@@ -9,4 +9,4 @@ Img - Main
 
 Configuration - User
 
-![img2](https://github.com/user-attachments/assets/ca702ccb-3e44-47c7-a28a-c746764a2ee4)
+![img2](https://github.com/user-attachments/assets/ee526e3d-e416-4bd8-9ad7-1c28bbbdb258)
